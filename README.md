@@ -1,6 +1,6 @@
 # Yelp Reviews REST API
 
-A small demo project that uses Yelp's public API to retrieve restaurant reviews.
+A small demo project that uses Yelp's public API to retrieve restaurant reviews. Enjoy
 
 `GET http://localhost:8080/api/reviews`
 
